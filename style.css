@@ -33,3 +33,17 @@ button{
 button:hover{
       background-color: rgb(46, 64, 65);
 }
+#Submit{
+      background-color: rgb(65, 65, 70);
+      width: 13%;
+      border-radius: 6px ;
+      border: 0px ;
+      color: white;
+      font-weight: 500;
+      padding: 10px 20px;
+      margin-top: 20px;
+}
+
+#Submit:hover{
+      background-color: rgb(98, 100, 100);
+}
