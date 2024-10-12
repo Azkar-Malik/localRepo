@@ -1,0 +1,35 @@
+*{
+      background-color: rgb(156, 154, 154);
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+      font-size: larger;
+}
+h1{
+      color: rgb(0, 89, 92);
+      font-weight: 900;
+      font-size: 70px;
+      word-spacing: 1px;
+      line-height: 1.2;
+}
+
+h2{
+      color: darkslategray;
+      font-weight: 900;
+      margin-bottom: 10px;
+}
+p{
+      color: rgb(41, 38, 38);
+}
+button{
+      background-color: rgb(85, 119, 121);
+      width: 13%;
+      border-radius: 6px ;
+      border: 0px ;
+      color: white;
+      font-weight: 500;
+      padding: 10px 20px;
+      margin-top: 20px;
+}
+button:hover{
+      background-color: rgb(46, 64, 65);
+}
